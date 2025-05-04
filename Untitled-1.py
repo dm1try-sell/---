@@ -1,7 +1,5 @@
 #https://docs.google.com/presentation/d/18eTZ8OU9-FkEVV5YXYftJmshKv6Qh-O6lT2Otw9T8rc/edit?slide=id.gca1f5aec5f_0_221#slide=id.gca1f5aec5f_0_221
 #https://docs.google.com/document/d/1RzQc7EHXTRUUcp6LxaRy9k3nyb0EVXaC6LPacCzT5Ic/edit?tab=t.0
-#https://docs.google.com/presentation/d/18eTZ8OU9-FkEVV5YXYftJmshKv6Qh-O6lT2Otw9T8rc/edit?slide=id.gca1f5aec5f_0_221#slide=id.gca1f5aec5f_0_221
-#https://docs.google.com/document/d/1RzQc7EHXTRUUcp6LxaRy9k3nyb0EVXaC6LPacCzT5Ic/edit?tab=t.0
 from pygame import *
 class GameSprite(sprite.Sprite):
    def __init__(self, player_image, player_x, player_y, player_speed, wight, height):
